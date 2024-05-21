@@ -1,0 +1,17 @@
+Data Sources :
+1] Returns.csv table
+2] dbo.Orders table from SQL server (Converted the same data in Superstore.xlsx format  )
+
+
+Data Understanding :
+This dataset is a superstore sales data along with the customer information with sales of particular products amount and sales 
+
+
+Data cleaning and preparation :
+
+
+Denormalization and data warehousing (facts and dim conversion)
+
+Measure development using DAX
+
+Data Visualization (Reporting)
